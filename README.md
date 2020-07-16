@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 This is R.Gopalakrishnan
 - I am a development geek, who is experienced in Web Development and have Xperience in mobile development.
 
-Languages :
+### Languages :
 Java
 Python
 HTML
@@ -30,16 +30,16 @@ Flutter and Flare
 SQL
 SAS
 
-Frameworks :
+### Frameworks :
 Springboot(java)
 Django(python)
 
-Interests :
+### Interests :
 WEB and Android Development
 UX Design
 Deep learning and Machine Learning
 
-Skills :
+### Skills :
 Web Development
 Android Development
 UX Design
