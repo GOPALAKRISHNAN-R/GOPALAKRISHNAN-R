@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is R.Gopalakrishnan
-I am a development geek, who is experienced in Web Development and have Xperience in mobile development.
+- I am a development geek, who is experienced in Web Development and have Xperience in mobile development.
 
 Languages :
 Java
