@@ -18,30 +18,30 @@ This is R.Gopalakrishnan
 - I am a development geek, who is experienced in Web Development and have Xperience in mobile development.
 
 ### Languages :
-Java
-Python
-HTML
-CSS
-Bootstrap
-Javascript/JQuery
-Kotlin
-Dart
-Flutter and Flare
-SQL
-SAS
+1. Java
+2. Python
+3. HTML
+4. CSS
+5. Bootstrap
+6. Javascript/JQuery
+7. Kotlin
+8. Dart
+9. Flutter and Flare
+10.SQL
+11.SAS
 
 ### Frameworks :
-Springboot(java)
-Django(python)
+1.Springboot(java)
+2.Django(python)
 
 ### Interests :
-WEB and Android Development
-UX Design
-Deep learning and Machine Learning
+1.WEB and Android Development
+2.UX Design
+3.Deep learning and Machine Learning
 
 ### Skills :
-Web Development
-Android Development
-UX Design
-UI Development
+1.Web Development
+2.Android Development
+3.UX Design
+4.UI Development
 
