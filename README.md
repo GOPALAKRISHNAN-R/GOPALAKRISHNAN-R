@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is R.Gopalakrishnan
-- I am a development geek, who is experienced in Web Development and have Xperience in mobile development.
+✨ I am a development geek, who is experienced in Web Development and have Xperience in mobile development.
 
-### Languages :
+### Languages :⚡
 1. Java
 2. Python
 3. HTML
@@ -30,16 +30,16 @@ This is R.Gopalakrishnan
 10. SQL
 11. SAS
 
-### Frameworks :
+### Frameworks :⚡
 1. Springboot(java)
 2. Django(python)
 
-### Interests :
+### Interests :⚡
 1. WEB and Android Development
 2. UX Design
 3. Deep learning and Machine Learning
 
-### Skills :
+### Skills :⚡
 1. Web Development
 2. Android Development
 3. UX Design
