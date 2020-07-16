@@ -27,21 +27,21 @@ This is R.Gopalakrishnan
 7. Kotlin
 8. Dart
 9. Flutter and Flare
-10.SQL
-11.SAS
+10. SQL
+11. SAS
 
 ### Frameworks :
-1.Springboot(java)
-2.Django(python)
+1. Springboot(java)
+2. Django(python)
 
 ### Interests :
-1.WEB and Android Development
-2.UX Design
-3.Deep learning and Machine Learning
+1. WEB and Android Development
+2. UX Design
+3. Deep learning and Machine Learning
 
 ### Skills :
-1.Web Development
-2.Android Development
-3.UX Design
-4.UI Development
+1. Web Development
+2. Android Development
+3. UX Design
+4. UI Development
 
