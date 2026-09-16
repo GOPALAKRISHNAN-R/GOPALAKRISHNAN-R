@@ -19,29 +19,12 @@ This is R.Gopalakrishnan
 
 ### Languages :⚡
 1. Java
-2. Python
-3. HTML
-4. CSS
-5. Bootstrap
-6. Javascript/JQuery
-7. Kotlin
-8. Dart
-9. Flutter and Flare
-10. SQL
-11. SAS
+2. HTML
+3. CSS
+4. Bootstrap
+5. Javascript/JQuery
+6. SQL
+
 
 ### Frameworks :⚡
 1. Springboot(java)
-2. Django(python)
-
-### Interests :⚡
-1. WEB and Android Development
-2. UX Design
-3. Deep learning and Machine Learning
-
-### Skills :⚡
-1. Web Development
-2. Android Development
-3. UX Design
-4. UI Development
-
